@@ -1,0 +1,56 @@
+# Visual Studio temporary files
+.vs/
+[Oo]bj/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pdb
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+.history/
+*.vsix
+
+# Build results
+[Bb]uild/
+bld/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/repositories.config
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# .NET Core Files
+*.dll
+*.exe
+*.cache
+
+# Logs
+*.log
+
+# Temp files
+*~
+*.swp
+*.tmp
+
+# Specific files to include
+!.gitignore
+!*.cs
+!*.csproj
+!*.sln
+!*.csv
+!*.md

@@ -21,6 +21,7 @@ Este proyecto implementa un perceptrón simple para la clasificación binaria de
 ## Estructura del Proyecto
 
 ### Diagrama
+```text
 perceptron-penguins/
 │
 ├── rnaperceptron/
@@ -31,7 +32,7 @@ perceptron-penguins/
 ├── data/
 │   └── penguins_size.csv     # Dataset con información de pingüinos
 └── README.md                 # Documentación del proyecto
-
+```
 
 El proyecto está organizado en los siguientes archivos principales:
 

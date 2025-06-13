@@ -75,13 +75,12 @@ El programa permite realizar las siguientes acciones:
    ```bash
    dotnet run
    ```
-Aquí está el contenido en formato Markdown para agregar directamente a un archivo README.md:
 
-```markdown
 2. Compila el proyecto:
    ```bash
    dotnet build
    ```
+   
 3. Ejecuta el programa:
    ```bash
    dotnet run

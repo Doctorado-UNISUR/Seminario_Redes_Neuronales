@@ -8,9 +8,9 @@ Este proyecto implementa una red neuronal MADALINE para el reconocimiento y clas
 
 ## Estructura del Proyecto
 
-- `Reporte_Algoritmo_MADALINE`: Reporte de la practica en la implementación del modelo MADALINE para reconocimiento de Letras.
-- `MADALINE_Recognition.ipynb`: Notebook principal con todo el código y análisis.
-- `letter-recognition.data.txt`: Dataset de entrenamiento y prueba.
+- `MADALINE_Recognition.ipynb`: Notebook como reporte con el código y análisis.
+- `letter-recognition.data`: Dataset de entrenamiento y prueba.
+- `model/madaline_letter_classifier.pkl`: Este es el modelo que se entreno y se guardo para utilizar en la validación o predicción.
 - `README.md`: Este archivo, con instrucciones y explicaciones.
 
 ---

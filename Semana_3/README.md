@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://scontent-qro1-1.xx.fbcdn.net/v/t39.30808-6/324508895_1267558777141158_5075776834275102909_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH_-KqfvlPVFh1ekkE0WOPpQZrk6zN4aPpBmuTrM3ho-jZQ7hoXQMNNyqbzbHD5o-s&_nc_ohc=5j-R8F19yicQ7kNvwE7zwBr&_nc_oc=AdlqcZ-Tf5CC89XsLiiCfESUReSIs0QmPASeQXtY7IsCTU64uuCSV5WUB4OUgxDenPv8VwbCpQ_mHnUN1PqNabOj&_nc_zt=23&_nc_ht=scontent-qro1-1.xx&_nc_gid=xBWqh7iaxddLABjy4DFn7g&oh=00_AfMpCsNxBhrWyVuPKVzKTpu2W_pOnvbYc3XkYDXzOHwG2Q&oe=684AD2EA" alt="Logo de la Institución" width="400">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRerieaMJrxMRIysI8dT9J_r3EJGnR_-5Mb-A&s" alt="Logo de la Institución" width="400">
 
 ---
 
